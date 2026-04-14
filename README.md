@@ -1,2 +1,2 @@
 # Hydrosense
-Repositório do projeto Hydrosense
+Repositório do projeto Hydrosense.
